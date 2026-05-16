@@ -95,6 +95,13 @@ The game dynamically tracks box and storage positions and detects victory once a
 - SFML 3
 - GNU Make
 
+## Getting Started
+
+```bash
+git clone https://github.com/aanyabharti101/Sokoban-Game.git
+cd Sokoban-Game
+```
+
 ### Compile
 
 ```bash
